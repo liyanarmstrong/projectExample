@@ -34,23 +34,5 @@ Sensors 有两种解释。
 + LPS
 + DKS
 
-Data Sets
--------------------------
-
-
-Region of Interest
--------------------------
-
-
-Feature Extraction Method
--------------------------
-
-
-Evaluations
--------------------------
-
-
-Future Works
--------------------------
 
 

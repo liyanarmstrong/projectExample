@@ -103,5 +103,5 @@
 适应能力强，在生活中待人友好，乐于帮助他人。有出色的组织能力和团队意识，具有较强的创新能力和强烈的责任感。
 
 
-
+<small>&copy;2016 Fu Tian.All Rights Reserved.</small> 
 
